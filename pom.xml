@@ -11,6 +11,11 @@
         <module>02-design-pattern-factory</module>
         <module>03-design-pattern-abstract-factory</module>
         <module>04-design-pattern-factory-method</module>
+        <module>05-design-pattern-builder</module>
+        <module>06-design-pattern-prototype</module>
+        <module>08-design-pattern-adapter</module>
+        <module>08-design-pattern-bridge</module>
+        <module>09-design-pattern-filter</module>
     </modules>
     <name>share-java-design-pattern</name>
     <description>share-java-design-pattern</description>
