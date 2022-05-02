@@ -18,6 +18,9 @@
         <module>09-design-pattern-filter</module>
         <module>10-design-pattern-proxy</module>
         <module>11-design-pattern-decorator</module>
+        <module>12-design-pattern-facade</module>
+        <module>13-design-pattern-flyweight</module>
+        <module>14-design-pattern-composite</module>
     </modules>
     <name>share-java-design-pattern</name>
     <description>share-java-design-pattern</description>
