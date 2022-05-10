@@ -21,6 +21,7 @@
         <module>12-design-pattern-facade</module>
         <module>13-design-pattern-flyweight</module>
         <module>14-design-pattern-composite</module>
+        <module>15-design-pattern-template-method</module>
     </modules>
     <name>share-java-design-pattern</name>
     <description>share-java-design-pattern</description>
