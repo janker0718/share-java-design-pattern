@@ -22,6 +22,11 @@
         <module>13-design-pattern-flyweight</module>
         <module>14-design-pattern-composite</module>
         <module>15-design-pattern-template-method</module>
+        <module>16-design-pattern-strategy</module>
+        <module>17-design-pattern-command</module>
+        <module>18-design-pattern-chain-of-responsibility</module>
+        <module>19-design-pattern-state</module>
+        <module>20-design-pattern-Observer</module>
     </modules>
     <name>share-java-design-pattern</name>
     <description>share-java-design-pattern</description>
