@@ -1,6 +1,7 @@
 package top.janker.pattern.observer;
 
 /**
+ * 具体目标
  * @author janker
  * @date 2022/5/14
  * <p>

@@ -27,6 +27,9 @@
         <module>18-design-pattern-chain-of-responsibility</module>
         <module>19-design-pattern-state</module>
         <module>20-design-pattern-Observer</module>
+        <module>21-design-pattern-mediator</module>
+        <module>22-design-pattern-iterator</module>
+        <module>23-design-pattern-visitor</module>
     </modules>
     <name>share-java-design-pattern</name>
     <description>share-java-design-pattern</description>
